@@ -1,4 +1,4 @@
-package com.nastypad.productsmicroservices.domain;
+package com.nastypad.productsmicroservices.domain.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
