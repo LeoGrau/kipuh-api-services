@@ -5,6 +5,6 @@ import com.nastypad.productsmicroservices.domain.model.Product;
 import java.util.List;
 
 public interface ProductService {
-    Product getProduct(long id);
+    Product getProduct(Long id);
     List<Product> getProducts();
 }
